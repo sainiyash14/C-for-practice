@@ -1,7 +1,7 @@
 //Program to find the remainder after division of twi numbers without modulo operator
 #include<stdio.h>
 int main(){
-    int a,b;
+    int a,b; //a>b
     printf("Enter 1st number: ");
     scanf("%d",&a);
     printf("Enter 2nd number: ");
